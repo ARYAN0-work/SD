@@ -1,4 +1,4 @@
-Database Replication — Multiple copies of the database
+# Database Replication — Multiple copies of the database
 
 Now imagine our backend has 20 servers.
 

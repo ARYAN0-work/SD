@@ -82,7 +82,7 @@ The cache takes some work away from the database.
 
 That's why caching can help when the database becomes a bottleneck.
 
-Real-life analogy
+- Real-life analogy
 
 Imagine you're studying and you keep asking your teacher:
 
@@ -102,8 +102,6 @@ You don't bother the teacher.
 
 Sticky note = cache
 Teacher = database
-
-😂
 
 One important thing
 
