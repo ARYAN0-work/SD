@@ -1,0 +1,1 @@
+- so each company is based on big or 1000 of servers which handles millions of server but before jumping on that let's just undersatnd simple server 
