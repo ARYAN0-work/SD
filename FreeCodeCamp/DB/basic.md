@@ -1,0 +1,1 @@
+as userbase grows we can seprate our web tier which is handling the web and mobile traffic and the data tier, which is managing the database. the setup enables us to scale each server based on its specfic load , but the main problem choosing the right database 
