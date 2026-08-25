@@ -26,4 +26,25 @@ WEB SERVER / MOBILE APP [we are using this things to access server]             
 
 // they have access to domain ex:- app.demo.com then if they enter url they 
 // will access to Domain name system[ system which maps to domain to the ip address] --it basically do this -->   app.demo.com    | 172.16.254.354
-                                                                                                                   ...           |     ...
+                                                                                                                   ...            |     ...          
+
+
+User
+ ↓
+Frontend / Mobile App
+ ↓
+DNS → finds server IP
+ ↓
+HTTP Request
+ ↓
+Backend / API
+ ↓
+Database / Cache
+ ↓
+Backend
+ ↓
+HTTP Response
+ ↓
+Frontend
+ ↓
+User sees result                                                                                                                   
