@@ -1,0 +1,2 @@
+Operator Overloading :- Operator overloading is when we make an operator like +, -, *, etc. work differently when used with objects of a class. For example, normally + adds numbers. But if we overload it for a Person class, it could combine their names.
+If we talk about C++ or Python they both support Operator Overloading, on the other if we talk about JAVA or JS they didn't support just because of to maintain simplicity, clarity, and predictable behavior, avoiding complexities an
