@@ -4,7 +4,7 @@
 - readibilty :- koi nya angineer aaye toh voh code easily samjh jaye 
 - BUGS 
 
-# now robet c martin introduced sdprinciplas if you follow this you are not gonna faceany kind of problem
+# now robet c martin introduced sdprinciplas if you follow this you are not gonna face any kind of problem
 
 > ACRONYMS:-
 
